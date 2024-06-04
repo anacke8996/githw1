@@ -1,0 +1,1 @@
+I am interested in taking CMSC320 to brush up on skills in data science as well as to learn the ML parts of it. last summer, I had an itenrship in data science and while I did alot, I feel like I dont have the groundworks for working with all sorts of data expecially sql.
